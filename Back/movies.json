@@ -1,14 +1,19 @@
 {
     "movies": [
         {
-            "title": "Inception",
-            "genre": "Thriller, Sci-fi",
+            "title": "Taxi 4",
+            "genre": "Action, Comedy",
+            "rating": 5.6
+        },
+        {
+            "title": "Interstellar",
+            "genre": "Sci-fi, Adventure",
             "rating": 8.7
         },
         {
-            "title": "Inception2",
-            "genre": "Thriller, Sci-fi",
-            "rating": 8.7
+            "title": "Fast X",
+            "genre": "Action, Crime",
+            "rating": 5.8
         }
     ]
 }
